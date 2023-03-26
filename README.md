@@ -16,5 +16,5 @@ The theme includes a number of rich features and plugins that you can use as a g
 
 ## Contact Me
 
-Feel free to contact me if you had any suggestion regarding my website!
+Feel free to contact me if you had any suggestion regarding any of my projects!
 You can reach me through my contact info available at my webpage.
